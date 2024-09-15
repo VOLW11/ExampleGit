@@ -7,6 +7,7 @@ public class NewScript2 : MonoBehaviour
     void Start()
     {
         Debug.Log("Add 2 script");
+        Debug.Log("Add new changes");
     }
 
 }
