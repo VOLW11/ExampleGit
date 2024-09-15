@@ -8,7 +8,9 @@ public class NewScript2 : MonoBehaviour
     {
         Debug.Log("Add 2 script");
         Debug.Log("Add new changes");
+        Debug.Log("Changes in develop branch");
         Debug.Log("changes in main branch");
+        Debug.Log("sdggfv");
     }
 
 }
